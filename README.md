@@ -1,16 +1,20 @@
-# flutter_calculator
+# Flutter Calculator
 
-A new Flutter project.
+Calculator project created with Flutter framework.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![screenshot1](./screenshots/Screenshot_01.png)
+![screenshot2](./screenshots/Screenshot_02.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Libraries used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- MathExpressions 2.3.0
+- Intl 0.17.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Links
+
+- [Asensive (WebSite)](https://asensive.com/)
+- [Instagram](https://www.instagram.com/mohammadshateri.dev/)
+- [Linkedin](https://www.linkedin.com/in/mohammadshateri/)
+- [Dribbble](https://dribbble.com/mohammadshateri)
